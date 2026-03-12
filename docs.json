@@ -9,7 +9,16 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": []
+    "languages": [
+      {
+        "language": "cn",
+        "products": [
+          {
+            "product": "EaseCall App"
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
